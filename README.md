@@ -75,7 +75,7 @@ modules:
 
 * Install YiiBridge via Composer
 ```
-php composer.phar require "codeception/YiiBridge:*"
+php composer.phar require " "codeception/yii-bridge:dev-master""
 php composer.phar update
 ```
 
